@@ -1,0 +1,23 @@
+{
+  "name": "authoring_homework_2",
+  "version": "1.0.0",
+  "description": "Video App for the multimedia authoring class",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Video",
+    "Authoring"
+  ],
+  "author": "Jon Kennedy",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0"
+  },
+  "dependencies": {
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
